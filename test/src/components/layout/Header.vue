@@ -12,14 +12,14 @@
 
 <style scoped>
   .header {
-    background: #333;
-    color: #fff;
+    background: #333333;
+    color: #ffffff;
     text-align: center;
     padding: 10px;
   }
 
   .header a {
-    color: #fff;
+    color: #ffffff;
     padding-right: 5px;
   }
 </style>
