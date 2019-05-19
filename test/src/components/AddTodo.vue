@@ -17,8 +17,7 @@
       }
     },
     methods: {
-      addTodo(e) {
-        e.preventDefault()
+      addTodo() {
         const newTodo = {
           title: this.title,
           completed: false
